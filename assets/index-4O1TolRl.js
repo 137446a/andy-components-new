@@ -1,4 +1,4 @@
-import{d as T,r as s,k as A,a as r,o as I,f as B,w as a,b as n,g as p,t as c,e as i,u as t,i as G,_ as D}from"./index-tg8HYgly.js";const M={style:{"margin-left":"10px"}},V={class:"name-wrapper"},P=T({__name:"index",setup(E){let C=[{prop:"date",label:"日期",align:"center",slot:"date",editable:!0},{prop:"name",label:"姓名",align:"center",slot:"name"},{prop:"address",label:"地址",align:"center",editable:!0},{label:"操作",action:!0,align:"center"}],g=s([]),l=s(""),b=`
+import{d as T,r as s,k as A,a as r,o as I,f as B,w as a,b as n,g as p,t as c,e as i,u as t,i as G,_ as D}from"./index-kneRyio3.js";const M={style:{"margin-left":"10px"}},V={class:"name-wrapper"},P=T({__name:"index",setup(E){let C=[{prop:"date",label:"日期",align:"center",slot:"date",editable:!0},{prop:"name",label:"姓名",align:"center",slot:"name"},{prop:"address",label:"地址",align:"center",editable:!0},{label:"操作",action:!0,align:"center"}],g=s([]),l=s(""),b=`
         <path class="path" d="
           M 30 15
           L 28 17
